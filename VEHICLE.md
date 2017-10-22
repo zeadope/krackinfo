@@ -8,44 +8,52 @@ Jump to: [FCA](#fca-llc) - [GM](#gm) - [VAG](#VAG)
 
 Uses [Uconnect®][] based on [QNX][]
 
-#### Brands (in alhabetical order)
+Brands (in alhabetical order)
 
-ALFA ROMEO
+### ALFA ROMEO
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| a | b | c | d | e |
+
+### CHRYSLER
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-CHRYSLER
+### DODGE
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-DODGE
+### FIAT®
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-FIAT®
+### JEEP®
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-JEEP®
+### MOPAR®
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-MOPAR®
+### RAM
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-RAM
-| Model | Edition | From year | Status | Comment |
-|-------|---------|-----------|--------|---------|
-| | | | | |
+### SRT®
 
-SRT®
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
@@ -53,112 +61,142 @@ SRT®
 ## GM - General Motors
 Uses [MyLink/Intellilink][] based on [QNX][]
 
-#### Brands (in alhabetical order)
+Brands (in alhabetical order)
 
-Baojun
+### Baojun
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Buick
+### Buick
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Cadillac
+### Cadillac
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Chevrolet
+### Chevrolet
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-GMC
+### GMC
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Holden
+### Holden
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-HSV (Holden Special Vehicles)
+### HSV (Holden Special Vehicles)
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Jie Fang
+### Jie Fang
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Ravon
+### Ravon
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Wuling
+### Wuling
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
-
 
 ## VAG - Volkswagen Group
 Variants based on [QNX][]
 
-#### Brands (in alhabetical order)
+Brands (in alhabetical order)
 
-Audi uses [Audi connect®][]
+### Audi uses [Audi connect®][]
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Bentley
+### Bentley
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Bugatti
+### Bugatti
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Lamborghini
+### Lamborghini
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Porsche
+### Porsche
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-SEAT
+### SEAT
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Škoda
+### Škoda
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-Volkswagen uses [Volkswagen Connect©][]
+### Volkswagen uses [Volkswagen Connect©][]
+
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-#### VAG Motorcycle brands
+## VAG Motorcycle brands
 
-* Ducati
+### Ducati
 
-#### VAG Commercial vehicles brands
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
 
-* MAN
-* Scania
+## VAG Commercial vehicles brands
+
+### MAN
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
+
+### Scania
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
 
 [Audi connect®]: https://www.audiusa.com/technology/intelligence/audi-connect "Audi connect®"
 [MyLink/Intellilink]: https://en.m.wikipedia.org/wiki/MyLink "Mylink/Intellilink"
